@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3ShapeEmailStatsGenerator", "3ShapeEmailStatsGenerator\3ShapeEmailStatsGenerator.csproj", "{978414F5-F8DF-4BAD-8C1E-91D6EE69C69D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{978414F5-F8DF-4BAD-8C1E-91D6EE69C69D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{978414F5-F8DF-4BAD-8C1E-91D6EE69C69D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{978414F5-F8DF-4BAD-8C1E-91D6EE69C69D}.Debug|x64.ActiveCfg = Debug|x64
+		{978414F5-F8DF-4BAD-8C1E-91D6EE69C69D}.Debug|x64.Build.0 = Debug|x64
+		{978414F5-F8DF-4BAD-8C1E-91D6EE69C69D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{978414F5-F8DF-4BAD-8C1E-91D6EE69C69D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{978414F5-F8DF-4BAD-8C1E-91D6EE69C69D}.Release|x64.ActiveCfg = Release|x64
+		{978414F5-F8DF-4BAD-8C1E-91D6EE69C69D}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {914DADAF-236A-4E55-92BA-4D75D29EC624}
+	EndGlobalSection
+EndGlobal

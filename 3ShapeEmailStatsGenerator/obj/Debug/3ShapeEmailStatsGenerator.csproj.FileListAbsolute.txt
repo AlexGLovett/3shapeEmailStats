@@ -1,0 +1,7 @@
+C:\Users\USALLV.ORANGE\OneDrive - Danaher\_MyPCFiles\Documents\Visual Studio 2013\Projects\3ShapeEmailStatsGenerator\3ShapeEmailStatsGenerator\bin\Debug\3ShapeEmailStatsGenerator.exe.config
+C:\Users\USALLV.ORANGE\OneDrive - Danaher\_MyPCFiles\Documents\Visual Studio 2013\Projects\3ShapeEmailStatsGenerator\3ShapeEmailStatsGenerator\bin\Debug\3ShapeEmailStatsGenerator.exe
+C:\Users\USALLV.ORANGE\OneDrive - Danaher\_MyPCFiles\Documents\Visual Studio 2013\Projects\3ShapeEmailStatsGenerator\3ShapeEmailStatsGenerator\bin\Debug\3ShapeEmailStatsGenerator.pdb
+C:\Users\USALLV.ORANGE\OneDrive - Danaher\_MyPCFiles\Documents\Visual Studio 2013\Projects\3ShapeEmailStatsGenerator\3ShapeEmailStatsGenerator\bin\Debug\EAGetMail45.dll
+C:\Users\USALLV.ORANGE\OneDrive - Danaher\_MyPCFiles\Documents\Visual Studio 2013\Projects\3ShapeEmailStatsGenerator\3ShapeEmailStatsGenerator\obj\Debug\3ShapeEmailStatsGenerator.csprojResolveAssemblyReference.cache
+C:\Users\USALLV.ORANGE\OneDrive - Danaher\_MyPCFiles\Documents\Visual Studio 2013\Projects\3ShapeEmailStatsGenerator\3ShapeEmailStatsGenerator\obj\Debug\3ShapeEmailStatsGenerator.exe
+C:\Users\USALLV.ORANGE\OneDrive - Danaher\_MyPCFiles\Documents\Visual Studio 2013\Projects\3ShapeEmailStatsGenerator\3ShapeEmailStatsGenerator\obj\Debug\3ShapeEmailStatsGenerator.pdb

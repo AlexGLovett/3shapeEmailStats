@@ -1,0 +1,9 @@
+C:\Users\Alex\Desktop\3ShapeEmailStatsGenerator\3ShapeEmailStatsGenerator\bin\Release\3ShapeEmailStatsGenerator.exe.config
+C:\Users\Alex\Desktop\3ShapeEmailStatsGenerator\3ShapeEmailStatsGenerator\bin\Release\3ShapeEmailStatsGenerator.exe
+C:\Users\Alex\Desktop\3ShapeEmailStatsGenerator\3ShapeEmailStatsGenerator\bin\Release\3ShapeEmailStatsGenerator.pdb
+C:\Users\Alex\Desktop\3ShapeEmailStatsGenerator\3ShapeEmailStatsGenerator\bin\Release\EAGetMail45.dll
+C:\Users\Alex\Desktop\3ShapeEmailStatsGenerator\3ShapeEmailStatsGenerator\obj\Release\3ShapeEmailStatsGenerator.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\3ShapeEmailStatsGenerator\3ShapeEmailStatsGenerator\obj\Release\3ShapeEmailStatsGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\3ShapeEmailStatsGenerator\3ShapeEmailStatsGenerator\obj\Release\3ShapeEmailStatsGenerator.csproj.CopyComplete
+C:\Users\Alex\Desktop\3ShapeEmailStatsGenerator\3ShapeEmailStatsGenerator\obj\Release\3ShapeEmailStatsGenerator.exe
+C:\Users\Alex\Desktop\3ShapeEmailStatsGenerator\3ShapeEmailStatsGenerator\obj\Release\3ShapeEmailStatsGenerator.pdb
